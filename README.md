@@ -1,3 +1,3 @@
 # SPEC
-- node: 6.9.4
+- node: 9.11.1
 - google-chrome: stable
